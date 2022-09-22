@@ -13,8 +13,8 @@ Every line of code written by https://twitter.con/austinnze1000 .
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/desktop-design-using-html-and-css-flexbox-cpZ4TotgWQ]
+- Live Site URL: http://huddle-landing-page-xi-five.vercel.app/
 
 ## My process
 
@@ -32,7 +32,7 @@ initialized on git and pushed this codes to github using the command prompt.
 ### What I learned
 
 I have learnt hoe to use ionicon as an alternative to fontawesome because of some problems encountered.
-Secondly, I got another understanding of 
+Secondly, I got another understanding of css flexbox.
 
 
 
